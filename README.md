@@ -17,7 +17,6 @@ I have access to information regarding the listings, neighbourhoods, reviews, an
 
 ## My learnings:
 
-###SQL
  - Acquiring data,
  - Querying data, 
  - Filtering out results, 

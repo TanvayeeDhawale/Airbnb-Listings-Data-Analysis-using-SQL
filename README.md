@@ -1,1 +1,1 @@
-# SQL-with-Corise-Project
+# SQL-based Project with Corise

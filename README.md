@@ -1,15 +1,9 @@
-# SQL-based Project with Corise
+# Airbnb listings Data Analysis using SQL
 
-I completed this SQL project (using SQLite Databases) during a two week course that I took on the platform- Corise. 
-Over the course of 2 weeks, I learnt and implemented various queries in SQL that drive decision making.
+Part of the SQL for Data Science course at CoRise. This project aims to apply SQL commands to help with customer support for the Airbnb launch in Sydney in various scenarios that a General Manager would face.
 
-My goals for the course were:
-  1. To understand SQL fundamentals: acquiring data, data pre-processing and cleaning, transforming and modeling data to gain insights using queries.
-  2. Implementing an end-to-end data analysis on a real world dataset.
-
-## The Data
-For this project, I've used the Airbnb Listings in Sydney dataset. This project aims to apply SQL learnings to help with customer support for Airbnb launch in Sydney.
-
+## Dataset
+For this project, I've used the Airbnb Listings in Sydney dataset. 
 As the General manager for the Sydney area at Airbnb, I want to know more about the different listings of houses my team has onboarded. 
 I have access to information regarding the listings, neighbourhoods, reviews, and calendar. Each of these have their own separate table.
 
